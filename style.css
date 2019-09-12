@@ -1,0 +1,14 @@
+.title-site {
+    background-image: url(img/fast-back.jpg);
+    background-size: contain;
+    min-height: 300px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.title-site h2{
+    position: absolute;
+    right: 50%;
+    top: 19%;
+    font-size: 5rem;
+    font-family: fantasy;
+}
